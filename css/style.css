@@ -70,9 +70,10 @@ nav ul li {
 }
 
 footer {
-    border: 2px solid;
+    border-top: 2px solid;
     border-color: (#2E006C, #6BBF98, #2E006C);
     text-align: center;
+    width: 100%;
 }
 
 .imgstardent {
